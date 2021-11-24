@@ -25,6 +25,10 @@ Blade agrega esencialmente cero sobrecarga a su aplicación.
     $ mv codeigniter4-CodeIgniter4-8c7f701/ /var/www/html/Codeigniter4-Blade 
 ```
 
+### ¿Comó configurar Codeigniter en Distribuciones Linux con SELinux?
+
+[Codeigniter4-SinSpark](https://github.com/arteaprogramar/Codeigniter4-SinSpark)
+
 ### BladeOne Blade Template Engine
 
 BladeOne es una versión independiente de Blade Template Engine que utiliza un solo archivo PHP y se puede portar y 
